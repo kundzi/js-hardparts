@@ -1,3 +1,5 @@
+// source http://csbin.io/closures 
+
 // CHALLENGE 1
 function createFunction() {
 	return function () {
