@@ -5,11 +5,13 @@
 npm install
 ```
 
-## Run the project
-Open any `.js` file and run it with Node.js:
+
+## Run the static server
+To serve the public directory on port 3001:
 ```
-node async.js
+npm start
 ```
+Then open http://localhost:3001 in your browser.
 
 ## Format code
 ```
